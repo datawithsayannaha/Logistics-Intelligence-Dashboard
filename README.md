@@ -1,5 +1,7 @@
 # 🚚 Logistics Intelligence Dashboard
-This dashboard helps logistics teams reduce delivery delay, optimize routes, and control freight cost.
+
+*This dashboard helps logistics teams reduce delivery delay, optimize routes, and control freight cost.*
+
 ---
 
 An end-to-end **Business Intelligence project** built with **SQL → Python → Power BI**
