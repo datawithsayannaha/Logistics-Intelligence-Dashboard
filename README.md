@@ -424,19 +424,19 @@ It shows which seller states handle the most deliveries and how early days, dela
 ## 📸 Dashboard Preview
 
 ### 🔹 Executive Control Tower
-![Executive Control Tower](images/Executive Control Tower.png)
+![Executive Control Tower](images/executive_control_tower.png)
 
 ### 🔹 Delivery Performance Analysis
-![Delivery Performance](images/Delivery Performance Analysis.png)
+![Delivery Performance](images/delivery_performance_analysis.png)
 
 ### 🔹 Route & Location Intelligence
-![Route Intelligence](images/Route & Location Intelligence.png)
+![Route Intelligence](images/route_location_intelligence.png)
 
 ### 🔹 Freight & Package Analysis
-![Freight Package](images/Freight & Package Analysis.png)
+![Freight Package](images/freight_package_analysis.png)
 
 ### 🔹 Warehouse & Operational Performance
-![Warehouse Performance](images/Warehouse & Operational Performance.png)
+![Warehouse Performance](images/warehouse_operational_performance.png)
 
 ---
 
