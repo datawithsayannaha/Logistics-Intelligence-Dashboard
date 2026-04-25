@@ -12,7 +12,7 @@ An end-to-end **Business Intelligence project** built with **SQL → Python → 
 
 Click here to view the Power BI dashboard:
 
-[View Dashboard](PASTE_YOUR_POWER_BI_LINK_HERE)
+[View Dashboard](https://app.powerbi.com/links/V2jS2MRruA?ctid=e66d4a36-e7af-4202-abd5-360d3aa12b25&pbi_source=linkShare)
 
 ---
 
