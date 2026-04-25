@@ -395,7 +395,7 @@ To monitor warehouse efficiency, seller-state performance, delivery completion r
 ### KPIs Used
 
 - Avg Early Days
-- Avg Delay Days:
+- Avg Delay Days
 - Delivery Efficiency
 - Delivery Completion Rate
 - Avg Freight per Order
